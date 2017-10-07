@@ -1,4 +1,4 @@
-# Datascience for Cybersecurity Notebooks
+# Data Science for Cybersecurity Notebooks
 
 This project documents how to analyze cybersecurity data with machine learning tools and techniques in python.  The tutorials run in [Jupyter Notebooks] (http://jupyter.org/install.html) and depend on the environment described in the environment.yml file.  
 
