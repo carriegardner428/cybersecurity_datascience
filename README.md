@@ -14,7 +14,7 @@ This project documents how to analyze cybersecurity data with machine learning t
 ## Organization
 security/  
 |-tutorials  
-|-data  ** Will be added soon
+|--data  ** Will be added soon  
 |---nsl_kdd  
 |---- KDDTest+.txt  
 |---- KDDTrain+.txt  
