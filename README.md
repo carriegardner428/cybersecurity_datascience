@@ -12,7 +12,7 @@ This project documents how to analyze cybersecurity data with machine learning t
 `conda env create -f environment.yml`
 
 ## Organization
-security/  
+cybersecurity_datascience/  
 |-tutorials  
 |--data  ** Will be added soon  
 |---nsl_kdd  
