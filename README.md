@@ -26,9 +26,9 @@ security/
 ## Get Started
 1. Look through data in Datasets.ipynb
 2. Familiarize yourself with pandas in the Pandas Intro.ipynb
-3. Familiarize yourself with matploitlib and seaborn in plotting_intro.ipynb
-4. Familiarize yourself with machine learning in ML_intro.ipynb
-5. Familiarize yourself with security logging and data in security_monitoring.ipynb
+3. Familiarize yourself with matplotlib and seaborn in Plotting Intro.ipynb (to be added)
+4. Familiarize yourself with machine learning in ML Intro.ipynb (to be added)
+5. Familiarize yourself with security logging and data in Security Monitoring.ipynb
 6. Step through the rest of the tutorials in chronological order
 
 ***Please submit a pull request to add or modify content***
