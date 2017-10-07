@@ -10,6 +10,7 @@
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
 
 **Websites**
+- http://thedataist.com
 - https://chrisalbon.com
 
 **People**

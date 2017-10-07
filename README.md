@@ -4,22 +4,22 @@ This project documents how to analyze cybersecurity data with machine learning t
 
 ## Dependencies
 1. Clone this repository
-`git clone [repo-url]`
+`git clone https://github.com/carriegardner428/cybersecurity_datascience.git`
 2. Ensure Anaconda is installed
-`conda --v`
+`conda --v`  
 If it's not installed, please visit (https://conda.io/docs/user-guide/install/index.html)
-3. Create the conda environment
+3. Create the conda environment  
 `conda env create -f environment.yml`
 
 ## Organization
-security/
-|-data
-|---nsl_kdd
-|-tutorials
-| Datasets.ipynb: Lists cybersecurtiy datasets
-| environment.yml: Basic pynthon conda configuration file
-| environment_mlbook.yml: Extensive python conda configuration file with deep learning and other packages
-| README.md:  What you are reading right now :)
+security/  
+|-data  
+|---nsl_kdd  
+|-tutorials  
+| Datasets.ipynb: Lists cybersecurtiy datasets  
+| environment.yml: Basic pynthon conda configuration file  
+| environment_mlbook.yml: Extensive python conda configuration file with deep   learning and other packages  
+| README.md:  What you are reading right now :)  
 
 ## Get Started
 1. Look through data in Datasets.ipynb
