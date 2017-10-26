@@ -1,4 +1,4 @@
-name: handson-ml
+name: modeling
 channels:
 - defaults
 - bokeh
@@ -18,5 +18,4 @@ dependencies:
 - wheel=0.29.0=py36_0
 - xz=5.2.3=0
 - zlib=1.2.11=0
-prefix: /Users/carrie/anaconda/envs/handson-ml
-
+prefix: /Users/carrie/anaconda/envs/modeling
