@@ -1,0 +1,2 @@
+tutorials/data/enron/*.txt filter=lfs diff=lfs merge=lfs -text
+tutorials/data/enron/*.csv filter=lfs diff=lfs merge=lfs -text
