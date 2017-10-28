@@ -8,7 +8,8 @@ This project documents how to analyze cybersecurity data with machine learning t
 2. Ensure Anaconda is installed
 `conda --v`  
   <em> If it's not installed, please visit (https://conda.io/docs/user-guide/install/index.html) </em>
-3. Create the conda environment
+3. cd cybersecurity_datascience
+4. Create the conda environment
 `conda env create -f environment.yml`
 
 ## Organization
